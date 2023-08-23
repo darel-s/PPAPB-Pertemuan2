@@ -1,6 +1,11 @@
 <resources>
-    <string name="app_name">Hello Toast</string>
-    <string name="toast">TOAST</string>
-    <string name="_0">0</string>
-    <string name="count">COUNT</string>
+    <string name="app_name">HelloToast</string>
+    <string name="loginTitle">Login</string>
+    <string name="usernameLabel">Username :</string>
+    <string name="passwordLabel">Password :</string>
+    <string name="usernamePlaceholder">Masukkan Username</string>
+    <string name="passwordPlaceholder">Masukkan Password</string>
+    <string name="buttonLabel">Log In</string>
+    <string name="toastSuccess">Login Sukses</string>
+    <string name="toastGagal">Login Gagal</string>
 </resources>
