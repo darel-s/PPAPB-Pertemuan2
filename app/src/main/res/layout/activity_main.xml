@@ -6,6 +6,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:padding="16dp"
+    android:background="@color/black"
     tools:context=".MainActivity">
 
     <Button
@@ -27,6 +28,6 @@
         android:id="@+id/btn_count"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/count"
+        android:text="@string/count"/>
 
 </LinearLayout>
