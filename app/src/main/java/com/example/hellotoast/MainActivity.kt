@@ -14,7 +14,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(binding.root)
         with(binding){
             txtNumber.text = number.toString()
-            txtNumber.setBackgroundResource(R.color.red600)
 
             btnCount.setOnClickListener{
                 number++
